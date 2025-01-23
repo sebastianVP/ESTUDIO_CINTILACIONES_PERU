@@ -48,7 +48,7 @@ def save_to_csv(sep_satellites_data, output_csv_path):
             for tiempo, s4, elevacion in zip(data['tiempo'], data['s4'], data['elevacion']):
                 csvwriter.writerow([id_satellite, tiempo, s4, elevacion])
 
-sep_folder_path = "/home/soporte/Documents/PAPER_CINTILACION"
+sep_folder_path = "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU"
 sep_file = "ljic_241231.s4"
 sep_file_path = os.path.join(sep_folder_path, sep_file)
 output_csv_path = "output_satellites_data.csv"

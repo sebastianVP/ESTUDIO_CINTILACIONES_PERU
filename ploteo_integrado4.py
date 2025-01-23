@@ -73,7 +73,7 @@ for fig_index in range(num_figures):
         empty_ax.axis('off')
 
     # Guardar la figura actual
-    output_plot_path = f'satellites_group_{fig_index + 1}_plot.png'
+    output_plot_path = f'/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/satellites_group_{fig_index + 1}_plot.png'
     plt.savefig(output_plot_path, dpi=300)
     plt.close()
 
