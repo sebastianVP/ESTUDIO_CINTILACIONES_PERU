@@ -7,6 +7,7 @@ from src.jrodb.jrodb import Api
 
 from jrodb import Api
 # DESCARGAMOS EL CONJUNTO DE DATOS
+
 with Api('https://www.igp.gob.pe/observatorios/radio-observatorio-jicamarca/database-cielo') as access:
   print(access.download(id ='2024_december_scint_data_ljic',path="/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre"))
 
