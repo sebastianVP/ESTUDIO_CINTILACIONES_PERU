@@ -1,0 +1,163 @@
+{
+  "id": "616db3c4-399e-47da-8194-e38fd0010d48",
+  "last_update": "06-Jan-2025 04.22 PM",
+  "name": "2024_december_scint_data_ljic",
+  "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic",
+  "resources": [
+    {
+      "id": "04e4b9b7-2491-473e-8389-c197914bc5ae",
+      "name": "ljic_241201.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241201.s4.gz"
+    },
+    {
+      "id": "811bf576-c554-41b1-8a8f-01a6704af420",
+      "name": "ljic_241202.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241202.s4.gz"
+    },
+    {
+      "id": "fd66065b-44dc-43f8-98a7-a255e39421ec",
+      "name": "ljic_241203.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241203.s4.gz"
+    },
+    {
+      "id": "0a7f830b-ddd5-4dea-bb4f-38847d382e9d",
+      "name": "ljic_241204.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241204.s4.gz"
+    },
+    {
+      "id": "9d3ce6b2-0def-4dec-8aa0-817345696575",
+      "name": "ljic_241205.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241205.s4.gz"
+    },
+    {
+      "id": "623795e5-4cf4-4f37-afd3-987aa9602535",
+      "name": "ljic_241206.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241206.s4.gz"
+    },
+    {
+      "id": "4fb12169-c89d-41cf-a415-e130d65f9e19",
+      "name": "ljic_241207.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241207.s4.gz"
+    },
+    {
+      "id": "32463018-c36d-4c39-914d-1a07ac645e69",
+      "name": "ljic_241208.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241208.s4.gz"
+    },
+    {
+      "id": "6719185e-0bc7-49d3-9c1a-d87628340d06",
+      "name": "ljic_241209.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241209.s4.gz"
+    },
+    {
+      "id": "8a7be179-72a2-45e1-9395-463914884b29",
+      "name": "ljic_241210.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241210.s4.gz"
+    },
+    {
+      "id": "83b61f25-3a16-427a-862c-940677813d4e",
+      "name": "ljic_241211.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241211.s4.gz"
+    },
+    {
+      "id": "a1f93e1c-b151-4c55-beed-05d531128960",
+      "name": "ljic_241212.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241212.s4.gz"
+    },
+    {
+      "id": "5484739d-182f-472b-b75e-de549f25b77f",
+      "name": "ljic_241213.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241213.s4.gz"
+    },
+    {
+      "id": "dd4d42f5-435e-4ed6-ae57-2301a44f0174",
+      "name": "ljic_241214.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241214.s4.gz"
+    },
+    {
+      "id": "edced59b-e25b-4f13-a4a3-76a729d237ad",
+      "name": "ljic_241215.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241215.s4.gz"
+    },
+    {
+      "id": "0efc01a3-dae1-4a8a-9315-ae2e055f2fc0",
+      "name": "ljic_241216.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241216.s4.gz"
+    },
+    {
+      "id": "e942fa1b-9d03-44f6-a2c1-496bc2eaf4d0",
+      "name": "ljic_241217.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241217.s4.gz"
+    },
+    {
+      "id": "641fa325-46ab-4ae0-b41e-6def0997b9f6",
+      "name": "ljic_241218.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241218.s4.gz"
+    },
+    {
+      "id": "3000d098-b730-494b-b544-e33b447f3313",
+      "name": "ljic_241219.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241219.s4.gz"
+    },
+    {
+      "id": "d36e86c9-25fd-4d51-90d1-943f20cea57c",
+      "name": "ljic_241220.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241220.s4.gz"
+    },
+    {
+      "id": "a11cd1a6-303f-4a10-ad01-92e6fc53e08e",
+      "name": "ljic_241221.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241221.s4.gz"
+    },
+    {
+      "id": "ab994a77-3663-4f3f-8197-86ef1c856c14",
+      "name": "ljic_241222.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241222.s4.gz"
+    },
+    {
+      "id": "7480e934-17ba-4cf5-b620-fcca5b344f8e",
+      "name": "ljic_241223.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241223.s4.gz"
+    },
+    {
+      "id": "9336a754-542a-439a-8e55-64d21570a3a3",
+      "name": "ljic_241224.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241224.s4.gz"
+    },
+    {
+      "id": "dd4e0ddf-309d-4d1a-bb9c-52b2b8f0f45f",
+      "name": "ljic_241225.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241225.s4.gz"
+    },
+    {
+      "id": "efacc3b9-347d-498a-9940-ecb9071e41d7",
+      "name": "ljic_241226.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241226.s4.gz"
+    },
+    {
+      "id": "2db25f1f-69aa-46fa-b192-da882444c29e",
+      "name": "ljic_241227.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241227.s4.gz"
+    },
+    {
+      "id": "a6fe9c43-9c1c-4134-b249-cb6673dbc026",
+      "name": "ljic_241228.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241228.s4.gz"
+    },
+    {
+      "id": "ad51c9fe-9638-47a9-b41c-b678b41ef0e3",
+      "name": "ljic_241229.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241229.s4.gz"
+    },
+    {
+      "id": "36f2031e-24bd-4f9d-bddc-31cc0ba711fd",
+      "name": "ljic_241230.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241230.s4.gz"
+    },
+    {
+      "id": "a138832e-0a74-4f93-a318-4f9ee4cf002a",
+      "name": "ljic_241231.s4.gz",
+      "path": "/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/Diciembre/2024_december_scint_data_ljic/data/ljic_241231.s4.gz"
+    }
+  ]
+}
