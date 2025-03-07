@@ -14,6 +14,8 @@ En conclusión, este sistema no sólo mitigará los impactos negativos del cente
 **PLAN DE TRABAJO	Nº 02**
 ---
 
+NOTA INICIAL: El entorno de ejecucion de los programas es el base de anaconda de la laptop Ubuntu22.04
+
 **I TRIMESTRE**
 **Revisión Sistemática de la Literatura y Adquisición de Datos:**
 1. Revisión sistemática de la literatura:
