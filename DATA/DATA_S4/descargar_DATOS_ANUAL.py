@@ -14,7 +14,8 @@ from jrodb import Api
 # DESCARGAMOS EL CONJUNTO DE DATOS
 
 # Lista de los meses en minúsculas
-years= ["2023","2024","2025"]
+years  = ["2023","2024","2025"]
+#years  = ["2023"]
 months = [
     "january", "february", "march", "april", "may", "june",
     "july", "august", "september", "october", "november", "december"
@@ -27,14 +28,17 @@ print(months)
 
 # ESTACION S4 ENCONTRADAS DESPUES DE REVISION S4 EN LISN
 # CUZCO,JAEN,JICAMARCA,PIURA,HUANCAYO,SAN_BARTOLOME,PUCP,PUCALLPA
-station="puc"    #"tac" "cuz" #"puc" #"piu"# "hyo" # "jic"
-DIR= "PUCALLPA"  #"TACNA" "CUZCO" #"PUCALLPA" #"PIURA" #"HUANCAYO" "JICAMARCA"
+#station="puc"    #"tac" "cuz" #"puc" #"piu"# "hyo" # "jic"
+#DIR= "PUCALLPA"  #"TACNA" "CUZCO" #"PUCALLPA" #"PIURA" #"HUANCAYO" "JICAMARCA"
 
-stations=["cuz","jae","jic","piu","hyo","sbr","ucp","puc"]
-DIRS=["CUZCO","JAEN","JICAMARCA","PIURA","HUANCAYO","SAN_BARTOLOME","PUCP","PUCALLPA"]
-#-------------------------------
+stations = ["cuz","jae","jic","piu","hyo","sbr","ucp","puc"]
+DIRS     = ["CUZCO","JAEN","JICAMARCA","PIURA","HUANCAYO","SAN_BARTOLOME","PUCP","PUCALLPA"]
+#stations = ["jic"]
+#DIRS     = ["JICAMARCA"]
+
+#----------------------------------------------------------------------------------------
 # NO ENCUENTRO PARAMETRO S4, TACNA, PUERTO MALDONADO
-# --------------------------------------DESCARGA DATOS ESTACION JICAMARCA----------------------------------------------------
+# --------------------------------------DESCARGA DATOS ESTACION JICAMARCA----------------
 for station,DIR in zip(stations, DIRS):
   for year in years:
       for month in months:

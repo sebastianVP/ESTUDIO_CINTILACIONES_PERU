@@ -16,16 +16,22 @@ def process_directories(input_directories):
         except subprocess.CalledProcessError as e:
             print(f"Error al ejecutar el comando en {input_directory}: {e}")
         except Exception as e:
+            print("\n")
             print(f"Error al procesar el directorio {input_directory}: {e}")
+            print("\n")
 
 
 
 # Ruta del directorio de entrada y archivo de salida
 # PATH BASE
-PATH="/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/DATA/DATA_S4"
+PPATH="/home/soporte/Documents/ESTUDIO_CINTILACIONES_PERU/DATA/DATA_S4"
 # DIRECTORIO DE ESTACIONES Y ABREVIATURA
 DIRS=["CUZCO","JAEN","JICAMARCA","PIURA","HUANCAYO","SAN_BARTOLOME","PUCP","PUCALLPA"]
 stations=["cuz","jae","jic","piu","hyo","sbr","ucp","puc"]
+
+DIRS=["JICAMARCA"]
+stations=["jic"]
+
 # YEARS
 years= ["2023","2024","2025"]
 # MESES
@@ -33,7 +39,15 @@ months = ["january", "february", "march", "april", "may", "june",
     "july", "august", "september", "october", "november", "december"]
 
 
+# LISTA DE DIRECTORIOS DE ENTRADA PARA BUSCAR ARCHIVOS Y DESCOMPRIMIR LA DATA DE TODAS LAS ESTACIONES
+input_directories= [
+      os.path.join(os.path.join(PPATH,DIR),os.path.join(f"{year}_{month}_scint_data_l{station}", "data"))
+      for station, DIR in zip(stations, DIRS)  
+      for year in years
+      for month in months
+      ]
+
+
 # Lista de directorios a procesar
-input_directories= [os.path.join(PATH,os.path.join(f"2024_{month}_scint_data_ljic","data")) for month in months]
 print("Input_directories: ",input_directories)
 process_directories(input_directories)
