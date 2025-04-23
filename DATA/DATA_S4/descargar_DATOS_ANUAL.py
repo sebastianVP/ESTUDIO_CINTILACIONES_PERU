@@ -33,8 +33,8 @@ print(months)
 
 stations = ["cuz","jae","jic","piu","hyo","sbr","ucp","puc"]
 DIRS     = ["CUZCO","JAEN","JICAMARCA","PIURA","HUANCAYO","SAN_BARTOLOME","PUCP","PUCALLPA"]
-#stations = ["jic"]
-#DIRS     = ["JICAMARCA"]
+stations = ["jic"]
+DIRS     = ["JICAMARCA"]
 
 #----------------------------------------------------------------------------------------
 # NO ENCUENTRO PARAMETRO S4, TACNA, PUERTO MALDONADO
